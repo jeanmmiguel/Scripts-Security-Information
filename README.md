@@ -1,2 +1,2 @@
 # Scripts-Segurança-da-Informação
-Alguns scripts em python e shell script
+Some scripts in python and shell script for Security Information
